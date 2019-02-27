@@ -4,4 +4,4 @@
 
 ## [Список конференций](https://github.com/ugapanyuk/ml_course/blob/master/other/conf_2019.docx)
 
- 
+### [Описание генерации отчетов для ЛР на основе ноутбуков](https://github.com/matshch/iu5_ml_course) 
